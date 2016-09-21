@@ -25,15 +25,14 @@ gems:
 
 
 # Site owner
-owner: 
+owner:
   name: "Your Name"
-  email:
+  web: "https://yoururl.com"
   twitter: "twitterhandle"
+  bio: "Description"
+  avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
-    ad-client:
-    ad-slot:
-  bio: "Your bio description for the site."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+    plus: "+GooglePlusIsAThing"
   disqus-shortname:
 
 
